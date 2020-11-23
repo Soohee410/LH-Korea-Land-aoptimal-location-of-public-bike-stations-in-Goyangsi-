@@ -1,0 +1,1 @@
+data url :  https://compas.lh.or.kr/subj/past/data?subjNo=SBJ_2007_001
